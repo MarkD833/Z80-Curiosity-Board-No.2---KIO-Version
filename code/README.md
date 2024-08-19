@@ -69,3 +69,4 @@ Before transferring the packaged files to the CP/M system, make sure that your t
 
 With CP/M running, download the file pkgCPM211Files.txt. This file is a package containing several CP/M programs: LOAD.COM, PIP.COM, STAT.COM, SUBMIT.COM, DDT.COM, DISPLAY.COM, DUMP.COM, ED.COM and ASM.COM. Most of these programs are detailed in the CP/M Operating System Manual.
 
+You can also download the file pkgMBASIC.txt. This file is the CP/M version of BASIC-80 v5.21 by Microsoft.
